@@ -1,2 +1,0 @@
-# AnalisisSistemas
-Actividad 1
